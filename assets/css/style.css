@@ -69,3 +69,14 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+
+ @media screen and (max-width: 608px) {
+   .hour {
+     font-size: small;
+   }
+ 
+   h1 {
+     font-size: 40px !important;
+   }
+  }

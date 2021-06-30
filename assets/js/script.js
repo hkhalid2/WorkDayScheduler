@@ -84,8 +84,5 @@ $(document).ready(function(){
       var userDescription = events[i].description;
       $("#" + events[i].time).children(".description").text(userDescription);
     }
-
-
-
     
 });
